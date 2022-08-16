@@ -1,4 +1,4 @@
 # Activity-recogtion-on-UCF50
 Simple activity recognition using UCF 50 dataset.
 
-https://github.com/rukon-uddin/Activity-recogtion-on-UCF50/blob/main/media/output_cnn_lstm_git.mp4
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
